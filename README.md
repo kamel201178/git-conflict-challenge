@@ -2,4 +2,6 @@
 
 #je modifie le dossier et le fichier README
 
-je modifie en local
+
+#jemodifie le dossier et le fichier README en ligne
+
